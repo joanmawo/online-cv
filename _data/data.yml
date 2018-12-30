@@ -122,52 +122,40 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Light Field Light Sheet Microscopy
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A device for simultaneous 3D imaging of microscopic biological samples."
 
-      - title: DevStudio
+      - title: Calcium imaging under an iSPIM with an ETL 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A device for rapid imaging of calcium dynamics in neural populations along large volumes."
 
-      - title: Tempo
+      - title: Simple, Low-Cost Bayesian Super Resolution Microscopy
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A simple method to obtain SR reconstructions using open software and off-the-shelf hardware"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Light-sheet enhanced resolution of light field microscopy for rapid imaging of large volumes
+        authors: Jorge Madrid-Wolff, Diego Castro, Pablo Arbelaez, Manu Forero-Shelton
+        conference: SPIE Photonics West, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Simple, Low-Cost Bayesian Super Resolution Microscopy
+        authors: Jorge Madrid-Wolff, Joel I. Klahr, John Mario Gonzalez, Manu Forero-Shelton
+        conference: Biophysical Society Annual Meeting, 2016
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
       - name: Javascript & jQuery
         level: 98%
