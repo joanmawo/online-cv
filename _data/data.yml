@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jorge Madrid-Wolff
-    tagline: Full Stack Developer
+    tagline: Image passionate
     avatar: jmw.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,6 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+
 
     languages:
       - idiom: Spanish
@@ -47,37 +48,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        I am a master's student in biomedical engineering at Universidad de los Andes in 
+        Bogota, Colombia. My research interests have revolved about image acquisition and analysis.
+        I have experience designing, building, and using custom optical microscopes. More recently,
+        I have dedicated myself to light field rendering and simultaneous volumetric imaging.
 
 education:
     - degree: MSc in Biomedical Engineering
       university: Universidad de los Andes
       time: 2016 - present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details: 
+        My current thesis consists in developping automated deep-learning based light field rendering.
 
     - degree: BSc in Physics
       university: Universidad de los Andes
       time: 2011 - 2016
       details: |
-        Thesis in Light Field Light Sheet Microscopy:
-        a novel intrument to acquire simultaneous images of 3D samples under optical sectioning.
+        My bachelor's thesis consisted of the design and construction of a custom light field light
+        sheet microscope; aimed at recording fast volumes in live samples.
 
-          - Bullet point
-          - Bullet point
+          - Minor in Classical Studies (Latin)
+          - Minor in Government
 
 experiences:
     - role: Lead Developer
