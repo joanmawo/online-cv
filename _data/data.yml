@@ -45,6 +45,14 @@ sidebar:
       - item: Cooking
         link:
 
+news:
+    title: News
+
+    assignments:
+      - title: 2 Posters presented at 10th Anniversary Ligh Sheet Conference in Dresden, GE
+        date: August 2018
+        link: 
+
 career-profile:
     title: Career Profile
     summary: |
@@ -145,9 +153,15 @@ publications:
         authors: Jorge Madrid-Wolff, Diego Castro, Pablo Arbelaez, Manu Forero-Shelton
         conference: SPIE Photonics West, 2018
 
+      - title: Light Sheet Illumination can enhance the resolution of Light Field microscopy
+        authors: Jore Madrid-Wolff, Diego Castro, Nicolas Barbosa-Berrio, Omar E. Olarte, Manu Forero-Shelton
+        conference: 10th Anniversary Light Sheet Fluorescence Microscopy Conference
+
       - title: Simple, Low-Cost Bayesian Super Resolution Microscopy
         authors: Jorge Madrid-Wolff, Joel I. Klahr, John Mario Gonzalez, Manu Forero-Shelton
         conference: Biophysical Society Annual Meeting, 2016
+
+
 
 
 skills:
@@ -157,19 +171,13 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Matlab
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Pytorch
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: CAD 
         level: 60%
 
 footer: >
