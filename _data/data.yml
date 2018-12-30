@@ -47,12 +47,14 @@ sidebar:
 
 news:
     title: News
-    intro: what's going on
+    intro: >
+      what's going on
 
     assignments:
       - title: 2 Posters presented at 10th Anniversary Ligh Sheet Conference in Dresden, GE
-        date: August 2018
         link: "#hook"
+        date: August 2018
+
 
 career-profile:
     title: Career Profile
