@@ -36,14 +36,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Linguistics
         link:
 
-      - item: Cooking
-        link:
+
 
 news:
     title: News
@@ -102,10 +101,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
+
 
     assignments:
       - title: Light Field Light Sheet Microscopy
