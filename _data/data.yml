@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -117,8 +117,8 @@ projects:
         link: "https://www.cell.com/biophysj/fulltext/S0006-3495(15)02165-7"
         tagline: "A simple method to obtain SR reconstructions using open software and off-the-shelf hardware"
 
-      - title: Use  of Antibodies in Immunofluorescence
-        link: "{{ site.baseurl }}/static_files/UseOfAntibodiesInImmunofluorescence_LaboratoryManual_JorgeMadridWolff.pdf"
+      - title: Use  of Antibodies in Immunofluorescence {{ site.baseurl }}/static_files/UseOfAntibodiesInImmunofluorescence_LaboratoryManual_JorgeMadridWolff.pdf
+        link: "https://github.com/joanmawo/online-cv/tree/master/static_files/UseOfAntibodiesInImmunofluorescence_LaboratoryManual_JorgeMadridWolff.pdf"
         tagline: "A laboratory handbook for the use of antibodies in fluorescence microscopy"
         
 
