@@ -106,16 +106,19 @@ projects:
 
     assignments:
       - title: Light Field Light Sheet Microscopy
-        link: "#hook"
+        link: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10499/104991U/Light-sheet-enhanced-resolution-of-light-field-microscopy-for-rapid/10.1117/12.2290188.short?SSO=1"
         tagline: "A device for simultaneous 3D imaging of microscopic biological samples."
 
       - title: Calcium imaging under an iSPIM with an ETL 
-        link: "#"
+        link: "https://www.mesobrain.eu/posters/"
         tagline: "A device for rapid imaging of calcium dynamics in neural populations along large volumes."
 
       - title: Simple, Low-Cost Bayesian Super Resolution Microscopy
-        link: "#"
+        link: "https://www.cell.com/biophysj/fulltext/S0006-3495(15)02165-7"
         tagline: "A simple method to obtain SR reconstructions using open software and off-the-shelf hardware"
+
+
+        {{ site.baseurl }}/pdfs/foo.pdf
 
 
 
