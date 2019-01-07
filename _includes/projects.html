@@ -21,7 +21,7 @@
 
       <span class="project-title">
         {% if project.link.endsWith("pdf") == True %}
-        <embed src="{{ project.link }}" type="application/pdf" />
+        <a <embed src="{{ project.link }}" type="application/pdf" /></a>
         {% else %}
         <a href="{{ project.link }}">{{ project.title }}</a>
         {%endif %}
